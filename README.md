@@ -1,0 +1,2 @@
+# IPL project 2008 to 2017
+ The project involves gathering and processing IPL match data, such as match results, player performance metrics, team statistics, and season-wise comparisons. The data is stored and managed in SQL databases for efficient querying and analysis. Power BI is used to create interactive dashboards, reports, and visualizations that provide an overview of key performance indicators (KPIs) such as runs, wickets, win rates, player contributions, and more.
